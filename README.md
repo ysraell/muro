@@ -8,3 +8,6 @@ Fotos do início ao fim da correção.
 
 ## VIZINHO
 Muro do vizinho anterior ao atual.
+
+## HOJE
+Fotos de hoje =)
