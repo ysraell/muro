@@ -9,5 +9,16 @@ Fotos do início ao fim da correção.
 ## VIZINHO
 Muro do vizinho anterior ao atual.
 
-## HOJE
-Fotos de hoje =)
+## RECENTE 
+Fotos recentes =)
+
+## FUNDOS
+Fotos do muro pelo lado do vizinho dos fundos
+
+## PISO
+### COMPACTACAO
+Compactação do terreno.
+### CONTRA PISO
+Colocação do contra-piso
+### DRENO
+Drenagem superficial e por baixo do piso antigo.
